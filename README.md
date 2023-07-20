@@ -3,6 +3,7 @@ Python scripts demonstrating simple image processing techniques using popular li
 
 ![](conversion.gif)
 
+
 Welcome to the NumPy_Basic_ImageProcessing repository! This collection contains various Python tasks that demonstrate image processing techniques using popular libraries like NumPy. The script cover tasks such as image rotation, resizing, and grayscale conversion, providing a hands-on learning experience for image manipulation and analysis.
 
 ## Examples Included
