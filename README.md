@@ -26,6 +26,12 @@ Understand the process of converting colored images to grayscale using NumPy arr
 - NumPy
 - Matplotlib
 
+## Technologies
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.x-green.svg)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-orange.svg)](https://matplotlib.org/)
+
 ## Contributions
 Contributions to this repository are welcome! If you have any image processing techniques or improvements you'd like to add, feel free to submit a pull request.
 
